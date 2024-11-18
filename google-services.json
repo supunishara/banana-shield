@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "370910777596",
+    "project_id": "banana-shield-6c3db",
+    "storage_bucket": "banana-shield-6c3db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370910777596:android:f295b6f6338008592b4779",
+        "android_client_info": {
+          "package_name": "com.sathsara.bananaShield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370910777596-et0a70517j155875ep8ngn890746nuuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sathsara.bananaShield",
+            "certificate_hash": "c0a16ffa3fb7a4769c618d725d34588aee6872f7"
+          }
+        },
+        {
+          "client_id": "370910777596-ot2d0hsea01nm153jg4btqhaec12g96h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sathsara.bananaShield",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "370910777596-1o2s7tvk1kekee2k1k4e18o1k0d8ajgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfQYYHf0G2l-QYLaf6UrUb3aR0oVbh2lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370910777596-1o2s7tvk1kekee2k1k4e18o1k0d8ajgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
